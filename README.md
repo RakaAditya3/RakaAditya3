@@ -24,6 +24,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RakaAditya3/RakaAditya3/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <img src="https://raw.githubusercontent.com/RakaAditya3/RakaAditya3/output/snake.svg" alt="Snake animation" />
 
 ###
